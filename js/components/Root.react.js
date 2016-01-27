@@ -12,7 +12,6 @@ const Root = ({head, content, bundle, host})=>(
     </head>
     <body>
       <div className="cover-absolute white layout horizontal center center-justified">
-        <Loader/>
       </div>
       <div id="root"
            className="fill"
