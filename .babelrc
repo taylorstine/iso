@@ -1,0 +1,4 @@
+{
+  "presets": ["es2015"],
+  "plugins": ["transform-react-jsx", "syntax-object-rest-spread", "transform-object-rest-spread", "typecheck", "syntax-flow", "transform-flow-strip-types", "syntax-class-properties", "transform-class-properties"]
+}

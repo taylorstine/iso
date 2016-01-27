@@ -1,0 +1,30 @@
+[
+  {
+    "name": "calories",
+    "type": "energy"
+  },
+  {
+    "name": "watts",
+    "type": "energy"
+  },
+  {
+    "name": "time",
+    "type": "time"
+  },
+  {
+    "name": "seconds",
+    "type": "time"
+  },
+  {
+    "name": "minutes",
+    "type": "time"
+  },
+  {
+    "name": "rounds",
+    "type": "count"
+  },
+  {
+    "name": "reps",
+    "type": "count"
+  }
+]
